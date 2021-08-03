@@ -1,4 +1,4 @@
-# Codecast's Single Page Application Starter Kit
+# Codecast's Single Page Application
 
 [![Build Status](https://travis-ci.org/codecasts/spa-starter-kit.svg?branch=develop)](https://travis-ci.org/codecasts/spa-starter-kit)
 
